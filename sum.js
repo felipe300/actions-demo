@@ -1,5 +1,4 @@
-function sum(a, b) {
-	// Something
+function sum (a, b) {
 	return a + b;
 }
 
